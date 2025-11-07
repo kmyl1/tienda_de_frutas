@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TiendaFrutas</string>
+    <string name="ver_detalles">Ver Detalles</string>
+    <string name="cantidad_hint">Cantidad a comprar</string>
+</resources>
